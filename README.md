@@ -1,13 +1,19 @@
-## Hi, I'm Jake - Welcome to my code sandbox!
+# Hi, I'm Jake - Welcome to my Code Sandbox!
 
 ### This is where I learn and develop skills for use in my professional life, as well as being a testbed for all sorts of fun ideas!
 
+<img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="250" height="250"></img>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
+I'm a passionate full-stack developer, pushing myself in all sorts of directions. Currently my main focus is working in C# and upping my skills there. If you're looking to chat about game dev, startups or coding bootcamps, I'm all ears!
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+:busts_in_silhouette: Currently working for an international FinTech startup
+
+:eyes: My favourite side project right now is a top secret Unity game!
+
+:mage_man: My current after-work obessions are New Blood games. Keep publishing classics, you're doing brilliantly!
+
+
 <!--
 **SilverLongjohns/SilverLongjohns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
