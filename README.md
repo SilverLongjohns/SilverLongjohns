@@ -1,4 +1,6 @@
-### Hi, I'm Jake - Ruby on Rails and beyond!
+## Hi, I'm Jake - Welcome to my code sandbox!
+
+### This is where I learn and develop skills for use in my professional life, as well as being a testbed for all sorts of fun ideas!
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
