@@ -7,7 +7,7 @@
 I'm a passionate full-stack developer, pushing myself in all sorts of directions. Currently my main focus is working in C# and upping my skills there. If you're looking to chat about game dev, startups or coding bootcamps, I'm all ears!
 
 
-:busts_in_silhouette: Currently working for an international FinTech startup
+:busts_in_silhouette: Currently working for Build Circle, a uk-based tech consultancy!
 
 :eyes: My favourite side project right now is a top secret Unity game!
 
