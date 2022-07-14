@@ -9,9 +9,9 @@ I'm a passionate full-stack developer, pushing myself in all sorts of directions
 
 :busts_in_silhouette: Currently working for Build Circle, a UK-based tech consultancy!
 
-:eyes: My favourite side project right now is a top secret Unity game!
+:eyes: My favourite side project right now is figuring out how Django even manages to run so slowly.
 
-:mage_man: My current after-work obessions are New Blood games. Keep publishing classics, you're doing brilliantly!
+:mage_man: My current after-work obessions is Might and Delight's Book of Travels. Check it out!
 
 
 <!--
