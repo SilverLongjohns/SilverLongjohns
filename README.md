@@ -11,7 +11,7 @@ I'm a passionate full-stack developer, pushing myself in all sorts of directions
 
 :eyes: My favourite side project right now is figuring out how Django even manages to run so slowly.
 
-:mage_man: My current after-work obessions is Might and Delight's Book of Travels. Check it out!
+:mage_man: My current after-work obession is Might and Delight's Book of Travels. Check it out!
 
 
 <!--
